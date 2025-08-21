@@ -1,0 +1,12 @@
+<deploy>
+    <configuration>
+        <path>~/AccountConfiguration/*</path>
+    </configuration>
+    <files>
+        <path>~/FileCabinet/SuiteScripts/SO/sales order ue/UE_so_err_msg_restric.js</path>
+    </files>
+    <objects>
+        <path>~/Objects/customscript_ue_so_err_msg_restric.xml</path>
+        <path>~/Objects/custbody_sales_ec_order_mr_map.xml</path>
+    </objects>  
+</deploy>
